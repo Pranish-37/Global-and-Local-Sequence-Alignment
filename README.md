@@ -24,8 +24,8 @@ Predict the function of unknown sequences by comparison.
 Identify evolutionary relationships between species.
 Detect sequence variations like SNPs (single nucleotide polymorphisms).
 The project demonstrates two main types of alignment:
-#000000 Global Alignment: Entire sequence alignment (using Needleman-Wunsch).
-#000000 Local Alignment: Sub-sequence alignment (using Smith-Waterman).
+- Global Alignment: Entire sequence alignment (using Needleman-Wunsch).
+- Local Alignment: Sub-sequence alignment (using Smith-Waterman).
 # Algorithms Implemented
 1. Needleman-Wunsch Algorithm (Global Alignment)
 
