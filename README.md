@@ -37,15 +37,15 @@ The project demonstrates two main types of alignment:
 - Compares the **entire length** of two sequences.
 - Assigns **scores** for matches, mismatches, and gaps to find the best alignment.
 - **Applications:**
- - Drug target identification
- - Protein structure prediction
- - Database search using tools like BLAST
+  - Drug target identification
+  - Protein structure prediction
+  - Database search using tools like BLAST
 
 **2. Smith-Waterman Algorithm (Local Alignment)**
 
 - Aligns **sub-sequences** to find regions with high similarity.
 - Allows **negative scores** and **flexible start** positions for alignment.
 - Applications:
- - Detect sequence variants
- - Predict protein structure by comparing to known sequences
- - Identify shared motifs in DNA sequences
+  - Detect sequence variants
+  - Predict protein structure by comparing to known sequences
+  - Identify shared motifs in DNA sequences
