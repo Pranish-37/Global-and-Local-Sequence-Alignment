@@ -10,9 +10,13 @@ Sequence alignment techniques help identify similarities between sequences, pred
 
 # Table of Contents
 **Introduction**
+
 **Algorithms Implemented**
+
 **Applications**
+
 **Performance Analysis**
+
 **Setup and Usage**
 
 # Introduction
@@ -22,9 +26,11 @@ Sequence alignment helps:
  - Predict the **function of unknown sequences** by comparison.
  - **Identify evolutionary relationships** between species.
  - Detect **sequence variations** like SNPs (single nucleotide polymorphisms).
+ - 
 The project demonstrates two main types of alignment:
 - **Global Alignment:** Entire sequence alignment (using Needleman-Wunsch).
 - **Local Alignment:** Sub-sequence alignment (using Smith-Waterman).
+- 
 # Algorithms Implemented
 1. Needleman-Wunsch Algorithm (Global Alignment)
 
