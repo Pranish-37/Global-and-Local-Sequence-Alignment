@@ -5,6 +5,7 @@ This project explores two essential algorithms in bioinformatics:
 
  - Needleman-Wunsch Algorithm for Global Alignment
  - Smith-Waterman Algorithm for Local Alignment
+
 Sequence alignment techniques help identify similarities between sequences, predict gene functions, detect mutations, and uncover evolutionary relationships. These algorithms are crucial for research in drug discovery, protein structure prediction, and sequence database searches.
 
 # Table of Contents
