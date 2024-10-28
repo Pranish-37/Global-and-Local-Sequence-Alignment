@@ -10,9 +10,9 @@ Sequence alignment techniques help identify similarities between sequences, pred
 
 # Table of Contents
 - [Introduction](#Introduction)
-- [Algorithms Implemented](#Algorithms Implemented)
-- [Performance Analysis](#Performance Analysis)
-- [Setup and Usage](#Setup and Usage)
+- [Algorithms Implemented](#Algorithms-Implemented)
+- [Performance Analysis](#Performance-Analysis)
+- [Setup and Usage](#Setup-and-Usage)
 
 # Introduction
 There are millions of known protein and nucleotide sequences, which often belong to families of related sequences.
