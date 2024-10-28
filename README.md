@@ -9,30 +9,10 @@ This project explores two essential algorithms in bioinformatics:
 Sequence alignment techniques help identify similarities between sequences, predict gene functions, detect mutations, and uncover evolutionary relationships. These algorithms are crucial for research in drug discovery, protein structure prediction, and sequence database searches.
 
 # Table of Contents
-**Introduction**
-
-**Algorithms Implemented**
-
-**Performance Analysis**
-
-**Setup and Usage**
-
-# Project Title
-
-## Table of Contents
-- [Installation Guide](#installation-guide)
-- [Usage](#usage)
-- [Contributing](#contributing)
-
-## Installation Guide
-Instructions for installation go here.
-
-## Usage
-How to use the project.
-
-## Contributing
-Guidelines for contributing.
-
+- [Introduction](#Introduction)
+- [Algorithms Implemented](#Algorithms Implemented)
+- [Performance Analysis](#Performance Analysis)
+- [Setup and Usage](#Setup and Usage)
 
 # Introduction
 There are millions of known protein and nucleotide sequences, which often belong to families of related sequences.
