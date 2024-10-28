@@ -49,3 +49,6 @@ The project demonstrates two main types of alignment:
   - Detect sequence variants
   - Predict protein structure by comparing to known sequences
   - Identify shared motifs in DNA sequences
+
+
+# Performance Analysis
