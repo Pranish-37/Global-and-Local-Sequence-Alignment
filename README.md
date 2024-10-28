@@ -52,3 +52,10 @@ The project demonstrates two main types of alignment:
 
 
 # Performance Analysis
+| Step                    | Global Alignment            | Local Alignment     |
+|-------------------------|----------------------|---------------------|
+| Initialization          | O (1)                | O (1)               |
+| Filling Score Matrix    | O(n × m)             | O(n × m)            |
+| Traceback (Alignment)   | O(k), k = length of alignment| O(k), k = length of alignment           |
+| Overall Time Complexity | O(n × m)             | O(n × m)            |
+| Overall Space Complexity| O(n × m)             | O(n × m)            |
