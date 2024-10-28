@@ -64,10 +64,21 @@ n and m are the lengths of the two sequences being aligned.
 
 # Steps and Usage
 **Prerequisites**
- - 1. Make sure you have Python installed. Install necessary libraries (like Biopython) by running:
+ - Make sure you have Python installed. Install necessary libraries (like Biopython) by running:
       ```bash
       pip install biopython
-
+**Running the code**
+- Clone the Repository
+  ```bash
+  git clone https://github.com/your-username/sequence-alignment-project.git
+  cd sequence-alignment-project
+- Navigate to the **code** directory and run the code:
+  ```bash
+  python alignment_code.py
+ **Example Output**
+ - Alignment score for two sequences
+- Console printout showing the aligned sequences with matches, mismatches, and gaps
+  
 
 
 
