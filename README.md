@@ -64,9 +64,10 @@ n and m are the lengths of the two sequences being aligned.
 
 # Steps and Usage
 **Prerequisites**
- - 1. **Python 3.8+**
+ - 1. Make sure you have Python installed. Install necessary libraries (like Biopython) by running:
       ```bash
-# Update your package manager
-sudo apt-get update
+      pip install biopython
+
+
 
 
